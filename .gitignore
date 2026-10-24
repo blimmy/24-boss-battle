@@ -1,0 +1,59 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Test coverage
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# VS Code / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+.AppleDouble
+._*
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.local
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.orig
+tmp/
+temp/
+
+# Keep these files on GitHub:
+# asset/
+# game/
+# tests/
+# main.py
+# requirements.txt
+# README.md
+# AGENTS.md
+# PLAN.md
+# EVIDENCE.md

@@ -1,0 +1,69 @@
+{
+  "backgrounds": {
+    "start_screen_bg.png": "asset/backgrounds/start_screen_bg.png",
+    "stage1_cloud_slime_bg.png": "asset/backgrounds/stage1_cloud_slime_bg.png",
+    "stage2_cursed_unicorn_bg.png": "asset/backgrounds/stage2_cursed_unicorn_bg.png",
+    "stage3_rainbow_dragon_bg.png": "asset/backgrounds/stage3_rainbow_dragon_bg.png",
+    "victory_bg.png": "asset/backgrounds/victory_bg.png"
+  },
+  "buttons": {
+    "button_start_game": "asset/ui/buttons/button_start_game.png",
+    "button_skip": "asset/ui/buttons/button_skip.png",
+    "button_clear": "asset/ui/buttons/button_clear.png",
+    "button_undo": "asset/ui/buttons/button_undo.png",
+    "button_disabled": "asset/ui/buttons/button_disabled.png",
+    "button_next": "asset/ui/buttons/button_next.png"
+  },
+  "icons": {
+    "icon_clock": "asset/ui/icons/icon_clock.png",
+    "icon_crown": "asset/ui/icons/icon_crown.png",
+    "icon_fastforward": "asset/ui/icons/icon_fastforward.png",
+    "icon_gem": "asset/ui/icons/icon_gem.png",
+    "icon_heart": "asset/ui/icons/icon_heart.png",
+    "icon_sparkles": "asset/ui/icons/icon_sparkles.png",
+    "icon_star": "asset/ui/icons/icon_star.png",
+    "icon_trash": "asset/ui/icons/icon_trash.png",
+    "icon_undo": "asset/ui/icons/icon_undo.png",
+    "icon_wand": "asset/ui/icons/icon_wand.png"
+  },
+  "tiles": {
+    "number": "asset/ui/tiles/tile_number.png",
+    "used": "asset/ui/tiles/tile_used.png",
+    "result_24": "asset/ui/tiles/tile_result_24.png",
+    "operator_plus": "asset/ui/tiles/tile_operator_plus.png",
+    "operator_minus": "asset/ui/tiles/tile_operator_minus.png",
+    "operator_multiply": "asset/ui/tiles/tile_operator_multiply.png",
+    "operator_divide": "asset/ui/tiles/tile_operator_divide.png",
+    "result": "asset/ui/tiles/tile_result.png",
+    "number_digits": {
+      "0": "asset/ui/tiles/tile_number_0.png",
+      "1": "asset/ui/tiles/tile_number_1.png",
+      "2": "asset/ui/tiles/tile_number_2.png",
+      "3": "asset/ui/tiles/tile_number_3.png",
+      "4": "asset/ui/tiles/tile_number_4.png",
+      "5": "asset/ui/tiles/tile_number_5.png",
+      "6": "asset/ui/tiles/tile_number_6.png",
+      "7": "asset/ui/tiles/tile_number_7.png",
+      "8": "asset/ui/tiles/tile_number_8.png",
+      "9": "asset/ui/tiles/tile_number_9.png"
+    },
+    "operator_symbols": {
+      "+": "asset/ui/tiles/tile_operator_plus.png",
+      "-": "asset/ui/tiles/tile_operator_minus.png",
+      "×": "asset/ui/tiles/tile_operator_multiply.png",
+      "÷": "asset/ui/tiles/tile_operator_divide.png"
+    }
+  },
+  "numbers": {
+    "0": "asset/ui/tiles/tile_number_0.png",
+    "1": "asset/ui/tiles/tile_number_1.png",
+    "2": "asset/ui/tiles/tile_number_2.png",
+    "3": "asset/ui/tiles/tile_number_3.png",
+    "4": "asset/ui/tiles/tile_number_4.png",
+    "5": "asset/ui/tiles/tile_number_5.png",
+    "6": "asset/ui/tiles/tile_number_6.png",
+    "7": "asset/ui/tiles/tile_number_7.png",
+    "8": "asset/ui/tiles/tile_number_8.png",
+    "9": "asset/ui/tiles/tile_number_9.png"
+  }
+}

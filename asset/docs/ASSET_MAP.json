@@ -1,0 +1,55 @@
+{
+  "princess": {
+    "idle": [
+      "asset/sprites/princess/idle_1.png",
+      "asset/sprites/princess/idle_2.png",
+      "asset/sprites/princess/idle_3.png"
+    ],
+    "attack": [
+      "asset/sprites/princess/attack_1.png",
+      "asset/sprites/princess/attack_2.png",
+      "asset/sprites/princess/attack_3.png"
+    ],
+    "victory": [
+      "asset/sprites/princess/victory_1.png",
+      "asset/sprites/princess/victory_2.png",
+      "asset/sprites/princess/victory_3.png"
+    ]
+  },
+  "cloud_slime": {
+    "idle": [
+      "asset/sprites/cloud_slime/idle_1.png",
+      "asset/sprites/cloud_slime/idle_2.png",
+      "asset/sprites/cloud_slime/idle_3.png"
+    ],
+    "hit": [
+      "asset/sprites/cloud_slime/hit_1.png",
+      "asset/sprites/cloud_slime/hit_2.png",
+      "asset/sprites/cloud_slime/hit_3.png"
+    ]
+  },
+  "cursed_unicorn": {
+    "idle": [
+      "asset/sprites/cursed_unicorn/idle_1.png",
+      "asset/sprites/cursed_unicorn/idle_2.png",
+      "asset/sprites/cursed_unicorn/idle_3.png"
+    ],
+    "hit": [
+      "asset/sprites/cursed_unicorn/hit_1.png",
+      "asset/sprites/cursed_unicorn/hit_2.png",
+      "asset/sprites/cursed_unicorn/hit_3.png"
+    ]
+  },
+  "rainbow_dragon": {
+    "idle": [
+      "asset/sprites/rainbow_dragon/idle_1.png",
+      "asset/sprites/rainbow_dragon/idle_2.png",
+      "asset/sprites/rainbow_dragon/idle_3.png"
+    ],
+    "hit": [
+      "asset/sprites/rainbow_dragon/hit_1.png",
+      "asset/sprites/rainbow_dragon/hit_2.png",
+      "asset/sprites/rainbow_dragon/hit_3.png"
+    ]
+  }
+}

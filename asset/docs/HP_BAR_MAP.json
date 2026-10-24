@@ -1,0 +1,17 @@
+{
+  "cloud_slime": {
+    "20": "asset/ui/bars/slime_hp_20.png",
+    "0": "asset/ui/bars/slime_hp_0.png"
+  },
+  "cursed_unicorn": {
+    "40": "asset/ui/bars/unicorn_hp_40.png",
+    "20": "asset/ui/bars/unicorn_hp_20.png",
+    "0": "asset/ui/bars/unicorn_hp_0.png"
+  },
+  "rainbow_dragon": {
+    "60": "asset/ui/bars/dragon_hp_60.png",
+    "40": "asset/ui/bars/dragon_hp_40.png",
+    "20": "asset/ui/bars/dragon_hp_20.png",
+    "0": "asset/ui/bars/dragon_hp_0.png"
+  }
+}

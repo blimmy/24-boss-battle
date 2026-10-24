@@ -1,0 +1,46 @@
+{
+  "screen": [
+    960,
+    540
+  ],
+  "input_mode": "pairwise-click-combine",
+  "attack_trigger": "automatic on a single remaining active tile with exact value 24",
+  "manual_attack_button": false,
+  "damage_per_success": 20,
+  "bosses": [
+    {
+      "id": "cloud_slime",
+      "max_hp": 20,
+      "hits_to_defeat": 1
+    },
+    {
+      "id": "cursed_unicorn",
+      "max_hp": 40,
+      "hits_to_defeat": 2
+    },
+    {
+      "id": "rainbow_dragon",
+      "max_hp": 60,
+      "hits_to_defeat": 3
+    }
+  ],
+  "tile_sizes_px": {
+    "number": [
+      88,
+      58
+    ],
+    "operator": [
+      82,
+      52
+    ],
+    "result": [
+      92,
+      60
+    ]
+  },
+  "operation_sequence": "first active tile -> operator -> second distinct active tile -> compute exact Fraction -> replace pair with one tile",
+  "all_four_initial_tiles_required": true,
+  "intermediate_24_not_attack": true,
+  "skip_unlimited": true,
+  "timer_continuous": true
+}
